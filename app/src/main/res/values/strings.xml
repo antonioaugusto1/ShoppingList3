@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="titulo">Lista de Compras!</string>
+    <string name="nextIni">Próximo</string>
+    <string name="fabDescricao">Add List</string>
+    <string name="itemAdicionado">Itens já adicionados:</string>
+    <string name="item">Digite o nome do item</string>
+    <string name="adicionarItem">Adicionar</string>
+    <string name="deletarItem">Excluir último</string>
+    <string name="salvarLista">Salvar</string>
+    <string name="tituloLista">Digite o título da lista</string>
+    <string name="listProdutos">Lista de Produtos</string>
+    <string name="listaCompra">Sua lista de compra:</string>
+    <string name="concluir">Concluir</string>
+</resources>
